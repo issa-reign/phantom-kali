@@ -25,10 +25,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=issa-reign&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=issa-reign&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-
 ---
 <p align="center">💡 Open to collaborations and exciting opportunities!</p>
