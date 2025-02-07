@@ -1,8 +1,8 @@
 # 👨‍💻 Full Stack Developer & System Administrator
 
-[![Followers](https://img.shields.io/github/followers/issa=reign?style=social)](https://github.com/issa=reign)
-[![GitHub stars](https://img.shields.io/github/stars/issa=reign?style=social)](https://github.com/issa=reign)
-[![Profile Views](https://visitcount.itsvg.in/api?id=issa=reign&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Followers](https://img.shields.io/github/followers/issa-reign?style=social)](https://github.com/issa-reign)
+[![GitHub stars](https://img.shields.io/github/stars/issa-reign?style=social)](https://github.com/issa-reign)
+[![Profile Views](https://visitcount.itsvg.in/api?id=issa-reign&icon=0&color=0)](https://visitcount.itsvg.in)
 
 > Passionate Full Stack Developer and System Administrator with expertise in AI/ML and web development. Worked as a System Administrator and currently contributing to [TopCode](https://topcode.co.ke).
 
@@ -62,17 +62,17 @@
 
 ## 📊 GitHub Statistics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issa=reign&show_icons=true&theme=dark)](https://github.com/issa=reign)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issa=reign&layout=compact&theme=dark)](https://github.com/issa=reign)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=issa-reign&show_icons=true&theme=dark)](https://github.com/issa-reign)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=issa-reign&layout=compact&theme=dark)](https://github.com/issa-reign)
 
 
 ## 🏅 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=issa=reign&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=issa-reign&theme=darkhub&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=issa=reign&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=issa-reign&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 🤝 Let's Connect!
 - 🌐 [Portfolio](https://topcode.co.ke)
